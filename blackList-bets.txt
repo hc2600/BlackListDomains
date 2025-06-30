@@ -4394,3 +4394,4 @@ megaposta.bet.br
 127.0.0.1	montecarlos.bet.br
 127.0.0.1	megaposta.bet.br
 127.0.0.1 astrologybacklightsinless.com
+127.0.0.1 g2888.com
