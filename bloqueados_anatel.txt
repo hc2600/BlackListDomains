@@ -1,0 +1,94 @@
+
+
+#--------------------------------------------------------#
+# Last Update: 30-06-2025 with 80 domains
+# MIT License: Copyright (c) 2025
+# https://github.com/hc2600/BlackListDomains
+# Report if you find a problem or want to add an address.
+
+
+
+# Blacklist  
+# HC2600
+#--------------------------------------------------------#
+
+127.0.0.1	123importados.com
+127.0.0.1	123multiofertas.com.br
+127.0.0.1	123multiofertas.net
+127.0.0.1	Acessivelmodasbras.com.br
+127.0.0.1	agachecomercial.net
+127.0.0.1	allprinter.com.br
+127.0.0.1	ascarishop.com
+127.0.0.1	bmjbaby.com.br
+127.0.0.1	boavistaacabamentos.com
+127.0.0.1	boticamaviris.com.br
+127.0.0.1	brasilmagazine.com
+127.0.0.1	brezzy.com.br
+127.0.0.1	caixamisteriosa.com
+127.0.0.1	casadonatebrasil.com
+127.0.0.1	casakith.com.br
+127.0.0.1	casamagazinebrasil.com
+127.0.0.1	centroofertas.com.br
+127.0.0.1	Cintosbyhi.com.br
+127.0.0.1	cogumeloshop.com
+127.0.0.1	comandantedasofertas.com
+127.0.0.1	compufree.com.br
+127.0.0.1	dbellestore.com
+127.0.0.1	Descontosbrasileiro.com
+127.0.0.1	drogariamc.com.br
+127.0.0.1	dutrametais.com
+127.0.0.1	dutrametais.com
+127.0.0.1	equipamentosrodrigues.com
+127.0.0.1	everestgroup.com.br
+127.0.0.1	fabricaauthenticite.com
+127.0.0.1	fabricashoes.com.br
+127.0.0.1	fazeventossp.com.br
+127.0.0.1	feme.com.br
+127.0.0.1	flystorebrasil.com.br
+127.0.0.1	futcertobrasil.com
+127.0.0.1	Gelniche.com.br
+127.0.0.1	gigavarejo.com.br
+127.0.0.1	gomic.com.br
+127.0.0.1	hofferta.com
+127.0.0.1	iluminim.com.br
+127.0.0.1	iwoseries.com
+127.0.0.1	Lbashop.com.br
+127.0.0.1	leggingbrasil.com
+127.0.0.1	leggingbrasil.com
+127.0.0.1	leggingbrasil.com.br
+127.0.0.1	lewadoimports.com
+127.0.0.1	liquidashoes.com.br
+127.0.0.1	lojaatlantis.com
+127.0.0.1	lojabestvarejos.com
+127.0.0.1	lojacondi.com
+127.0.0.1	lojadigivarejista.com
+127.0.0.1	lojadubaiimports.com.br
+127.0.0.1	lojaslondrina.com.br
+127.0.0.1	lojavitesse.com
+127.0.0.1	Lovelybox.com.br
+127.0.0.1	luadishop.com.br
+127.0.0.1	magazineal.com
+127.0.0.1	magazinedosatacados.com
+127.0.0.1	magazinestore.com
+127.0.0.1	magazinmulher.com.br
+127.0.0.1	mundialeletro.com.br
+127.0.0.1	nuvemdedescontos.com
+127.0.0.1	ofertastore.com
+127.0.0.1	offthewall.com.br
+127.0.0.1	Outletdasfraldas.com.br
+127.0.0.1	peixeurbano.com.br
+127.0.0.1	pneusdrive.com.br
+127.0.0.1	premierexclusive.com.br
+127.0.0.1	rocklin.com.br
+127.0.0.1	Rosafashion.com.br
+127.0.0.1	safiravillage.com.br
+127.0.0.1	saldaocarioca.com.br
+127.0.0.1	Santolarmoveis.com.br
+127.0.0.1	shopmaxx.com.br
+127.0.0.1	Sigaofertas.com.br
+127.0.0.1	tecnotec.com.br
+127.0.0.1	tiggoshop.com.br
+127.0.0.1	usenox.com
+127.0.0.1	vivadecor.com.br
+127.0.0.1	vivonestore.com
+127.0.0.1	zinnimodas.com
